@@ -1,4 +1,4 @@
-<p align="center">
+Ethereum<p align="center">
   <img src="https://raw.githubusercontent.com/Pobepto/walle/main/github/logo.png" height="200">
 </p>
 
